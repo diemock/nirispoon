@@ -5,7 +5,9 @@
 - 🇺🇸 [English](README.md)
 - 🇷🇺 [Русский](docs/README-ru.md)
 
-
+<p align="center">
+  <img src="assets/screenshots/optimized.png" width="1200" alt="Главный интерфейс Nirispoon">
+</p>
 
 **Nirispoon** is a window orchestration tool for macOS built on Hammerspoon. It organizes windows into vertical columns with controllable width and provides both automatic layout and manual control features.
 
