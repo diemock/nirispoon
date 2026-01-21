@@ -25,7 +25,7 @@
 2. Open Hammerspoon and grant necessary permissions in macOS settings
 
 ### Installation
-1. Copy the entire script code
+1. Copy the entire script code from `src/init.lua`
 2. Open the file `~/.hammerspoon/init.lua`
 3. Paste the code, replacing existing content
 4. Save the file and restart Hammerspoon (or press `⌘Cmd + ⇧Shift + R`)
